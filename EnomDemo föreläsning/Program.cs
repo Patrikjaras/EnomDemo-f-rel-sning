@@ -12,7 +12,7 @@ namespace EnumDemo_föreläsning
         {
             Console.WriteLine("Hello, Patrik");
             Console.WriteLine("förändring");
-
+            Console.WriteLine("förändring två");
 
 
 
