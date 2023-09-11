@@ -11,6 +11,7 @@ namespace EnumDemo_föreläsning
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Patrik");
+            Console.WriteLine("förändring");
 
 
 
